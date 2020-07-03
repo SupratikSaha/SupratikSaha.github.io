@@ -170,7 +170,7 @@ section:last-child {
 }
 
 .bullets {
-	font-size: 0.90em;
+	font-size: 0.9em;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
