@@ -171,7 +171,8 @@ section:last-child {
 
 .tools {
     font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 0.9em;
+	font-size: 1em;
+	margin-top: 3px;
 }
 
 .tools b{
